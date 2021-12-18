@@ -1,3 +1,3 @@
 # tarif-odev
 
-patika.dev tarif ödevi
+patika.dev html tarif ödevi
